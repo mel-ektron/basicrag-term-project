@@ -4,8 +4,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-🦜️🔗-green?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-orange?style=for-the-badge&logo=google)
 
-> **"Dokümanlarınızı sadece okumayın, onlarla matematiksel bir derinlikte konuşun."**
-
 BasicRAG, Google'ın **Gemini 1.5 Flash** modelini ve **LangChain** kütüphanesini kullanarak, PDF ve metin belgelerinizden anlamlı bilgiler çıkaran bir **Retrieval-Augmented Generation (RAG)** sistemidir.
 
 ---
